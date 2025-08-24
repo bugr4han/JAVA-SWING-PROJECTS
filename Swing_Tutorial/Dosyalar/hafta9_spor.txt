@@ -1,0 +1,25 @@
+Karın//1//Sit-Up
+Karın//1//Russian Twist
+Göğüs//2//Chest Press
+Göğüs//2//Fly Machine
+Biceps//3//Dumbbell Curl
+Biceps//3//Rope Curl
+Triceps//4//Rope Pushdown
+Triceps//4//Overhead Extension
+Omuz//5//Lateral Raise
+Omuz//5//Overhead Press
+Omuz//5//Shoulder Press
+Sırt//6//Lat Pulldown
+Sırt//6//Seated Cable Row
+Bacak//7//Leg Extension
+Bacak//7//Leg Press
+Süre//Günlük
+Süre//1 Aylık
+Süre//3 Aylık
+Süre//6 Aylık
+Süre//12 Aylık
+Tekrar//3x12
+Tekrar//4x12
+Tekrar//5x12
+Tekrar//3x15
+Tekrar//4x15

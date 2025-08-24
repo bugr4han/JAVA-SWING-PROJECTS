@@ -1,0 +1,17 @@
+ad//Ali
+
+soyad//Sağlam
+
+tel//0-123-456-78-98
+
+adres//Mahalle	Sokaka	Numara		beyoglu/istanbul
+
+kangrup//A Rh+
+
+ilgi//0//2//
+
+durum//2
+
+il//3
+
+ilce//2
